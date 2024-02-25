@@ -17,8 +17,8 @@ Before running the server, ensure you have Go installed on your machine. The pro
 To set up the project, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/simple-go-http-server.git
-cd simple-go-http-server
+git clone https://github.com/yourusername/simple-go-server.git
+cd simple-go-server
 ```
 
 Then, run the server using:
