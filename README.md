@@ -2,6 +2,8 @@
 
 This project is a simple HTTP server built in Go (Golang), demonstrating basic CRUD operations without the use of external frameworks. The server allows the creation, retrieval, and deletion of posts, which are simple data structures stored in memory. This project is intended for educational purposes, showcasing Go's capabilities in handling HTTP requests, managing concurrency, and structuring a simple REST API.
 
+There is an accompanying blog post, which you can find here: [Building a Basic HTTP Server in Go: A Step by Step Tutorial](https://dev.to/andyjessop/building-a-basic-http-server-in-go-a-step-by-step-tutorial-ma4).
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
